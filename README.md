@@ -28,7 +28,9 @@
  </p>
 <br>
 
+<p align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanakon8529&show_icons=true&theme=radical) <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Bhumika Tewary's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanakon8529&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+</p>
 
     
 
