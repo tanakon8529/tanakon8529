@@ -27,10 +27,15 @@
       width="40" height="40" /> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/76270405/159112782-f08d42f0-03eb-4836-9672-ac114e7b50fb.svg" alt="linux" width="40" height="40"/> </a> <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/76270405/159112926-6978c4ff-2f92-43f0-a715-b9d5710f215c.svg" alt="vscode" width="40" height="40"/> </a> <a href="https://fastapi.tiangolo.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/76270405/159112957-783b7483-1180-4149-b104-8c5db10f7dd4.svg" alt="fastapi" width="40" height="40"/> </a>
 
 <br>
+
 <p align="center">
-<a href="https://github-readme-stats.vercel.app/api?username=tanakon8529&show_icons=true&theme=radical">
- </p>
-<img alt="Tanakon kabprapun Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanakon8529&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<img alt="Tanakon kabprapun Top Languages" src="https://github-readme-stats.vercel.app/api?username=tanakon8529&show_icons=true&theme=radical">
+</p>
+
+<br>
+<p align="center">
+<img alt="Tanakon kabprapun Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanakon8529&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+</p>
 
     
 
