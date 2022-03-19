@@ -14,8 +14,6 @@
 
 </p>
 
-<br>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank"
     rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
@@ -42,6 +40,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanakon8529&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
     alt="tanakon8529" /></p>
 
-<br>
-      
-[Adam-pw](https://github.com/Adam-pw)
