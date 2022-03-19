@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Tanakon Kabprapun</h1>
 <h3 align="center">Student at RamkhamHeang University.</h3>
+<br>
+
+<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=tanakon8529&label=Profile%20views&color=0e75b6&style=flat"
+    alt="adam-pw" /> 
+  </p>
 
 <br>
 
