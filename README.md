@@ -29,7 +29,7 @@
 <br>
 
 <p align="center">
-<img alt="Tanakon kabprapun Top Languages" src="https://github-readme-stats.vercel.app/api?username=tanakon8529&show_icons=true&theme=radical">
+<img alt="Tanakon kabprapun Stats" src="https://github-readme-stats.vercel.app/api?username=tanakon8529&show_icons=true&theme=radical">
 </p>
 
 <br>
