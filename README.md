@@ -66,17 +66,3 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
-
-
-
-<p align="center">
-<img alt="Tanakon kabprapun Stats" src="https://github-readme-stats.vercel.app/api?username=tanakon8529&show_icons=true&theme=radical">
-</p>
-
-<br>
-<p align="center">
-<img alt="Tanakon kabprapun Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanakon8529&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
-</p>
-
-    
-
