@@ -28,15 +28,8 @@
  </p>
 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanakon8529)](https://github.com/anuraghazra/github-readme-stats)
-
 <h3>Statistical Data :-</h3>
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=adam-pw&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="tanakon8529" 
-    bg_color=#808080/></p>
-
-<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanakon8529&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanakon8529&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
     alt="tanakon8529" /></p>
