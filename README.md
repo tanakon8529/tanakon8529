@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tanakon Kabprapun</h1>
-<h3 align="center">Student at RamkhamHeang University and work as a Python Developer.</h3>
+<h3 align="center">Student at RamkhamHaeng University and work as a Python Developer.</h3>
 
 <br>
 
