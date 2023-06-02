@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer | Python Developer | Back-end Developer
 ---------------------------------------------------------
 
-I'm a software engineer and in my last year as a student at Ramkhamhaeng University seeking a career in back-end development, open to exploring Machine Learning, Blockchain, Artificial Intelligence, and new tools
+I'm a software engineer seeking a career in back-end development, open to exploring Machine Learning, Blockchain, Artificial Intelligence, and new tools
 
 * 🌍  I'm based in Bangkok, Thailand.
 * ✉️  You can contact me at [tanakon.kabprapun@gmail.com](mailto:tanakon.kabprapun@gmail.com)
